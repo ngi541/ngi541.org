@@ -1,0 +1,4 @@
+Contact: mailto:contact@ngi541.org
+Expires: 2027-10-07T23:59:59Z
+Canonical: https://ngi541.org/.well-known/security.txt
+Preferred-Languages: en
